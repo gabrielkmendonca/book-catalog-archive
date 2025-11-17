@@ -1,0 +1,5 @@
+A Teoria dos Grafos,Maria Silva,2022,Ciência da Computação,350
+Estruturas de Dados Essenciais,João Pereira,2019,Ciência da Computação,480
+O Código Limpo,Robert C. Martin,2008,Programação,464
+Inteligência Artificial: Fundamentos,Ana Souza,2023,Inteligência Artificial,620
+Algoritmos em Python,Pedro Costa,2021,Programação,300

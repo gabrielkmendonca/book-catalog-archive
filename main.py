@@ -100,7 +100,7 @@ def ordernar_titulo(catalogo):
     
     print()
 
-nome_arquivo = "catalogo_ebooks.txt"
+nome_arquivo = "books_catalog.txt"
 catalogo = cadastrar_catalogo(nome_arquivo) 
 listar_genero(catalogo) 
 print("\n-----------------------------------------------------------------------------------------------------------------------------------\n")
